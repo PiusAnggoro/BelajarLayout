@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Belajar Layout</string>
+    <string name="my_phone_number">+62 8987 654 321</string>
+    <string name="twitter_handle">\@piusanggoro</string>
+    <string name="my_email">piusanggoro@gmail.com</string>
+    <string name="my_name">Pius Anggoro</string>
+    <string name="my_title">Software Developer</string>
+</resources>
